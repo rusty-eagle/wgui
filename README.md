@@ -9,3 +9,10 @@ This had to be done.  It's a simple, terrible, unsafe, messy, quickly-done, fron
 
 # notes
 There is a test0.conf file to test the import option.
+
+# usage
+sudo ./wgui
+
+This is why it's insecure.  No security policies at the moment.
+
+# use at your own risk!  I take no responsibility for anything that happens when you use this!
